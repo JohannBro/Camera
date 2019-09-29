@@ -35,7 +35,6 @@ namespace Camera
                {
                    Directory = "my_images",
                    Name = "Ma photo.jpg"
-                   
                });
             if (file == null)
                 return;
